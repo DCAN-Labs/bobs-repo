@@ -1,0 +1,12 @@
+[submodule "inputs/sub-116056"]
+	path = inputs/sub-116056
+	url = ./inputs/sub-116056
+	datalad-id = 5ffa72ee-93bc-4059-93fc-2b0e0d956544
+[submodule "inputs/sub-116845"]
+	path = inputs/sub-116845
+	url = ./inputs/sub-116845
+	datalad-id = 6ba5d317-2ac7-44b0-9616-84ca346f3a28
+[submodule "inputs/sub-176427"]
+	path = inputs/sub-176427
+	url = ./inputs/sub-176427
+	datalad-id = 6153eb99-b092-4744-9ddb-9cca2217ace5
